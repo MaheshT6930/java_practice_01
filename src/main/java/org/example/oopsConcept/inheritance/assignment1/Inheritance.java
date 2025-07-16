@@ -7,6 +7,7 @@ public class Inheritance {
         super_Hilton.roomServiceingHours();
         super_Hilton.poolTimings();
 
+
         Mariot farmerMariot = new Mariot();
         System.out.println("Hotel Mariot info ");
         farmerMariot.banquetHall();
