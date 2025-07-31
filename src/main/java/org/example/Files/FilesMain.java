@@ -30,6 +30,11 @@ public class FilesMain {
 
         //Files.deleteIfExists(Paths.get("data2.txt"));
 
+        // read files
+        //FileReader reader = new FileReader("file1_outputStream.txt");
+        //String
+
+
 
 
 
